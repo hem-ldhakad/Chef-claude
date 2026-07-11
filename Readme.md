@@ -12,6 +12,7 @@ component communication, and API integration.
 - `useState` Hook
 - Updating State
 - Managing Arrays & Objects
+  
 ### State Variables
 
 ```jsx
